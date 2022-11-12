@@ -1,0 +1,7 @@
+.vscode/*
+__pycache__/
+
+.vscode
+
+!__init__.py
+db.sqlite3

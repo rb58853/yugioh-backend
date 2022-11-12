@@ -1,0 +1,7 @@
+Consulta 1: DeckGBPlayer la view en ygo
+Consulta 2: ArchetypeGBPlayer la view en ygo
+Consulta 3: PlacePopulateArchetype la view en ygo
+Consulta 4: Champion en Torneo
+Consulta 5: MoreVictories en la view Torneo
+Consulta 6: Archetype_More_Used en la view Torneo
+Consulta 7: ArchetypeGBPlace la view en ygo
